@@ -7,3 +7,4 @@ favsong:Tears in the rain
 lastsong:Myeyes
 
 Myproject_copy
+Myproject
