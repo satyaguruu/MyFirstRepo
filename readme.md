@@ -1,4 +1,4 @@
-#Welcome to "Git for beginners" Myproject
+Welcome to "Git for beginners" Myproject
 
 - Author:Guru
 - favmovie:Lalaland
