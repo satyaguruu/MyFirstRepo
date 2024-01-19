@@ -2,10 +2,10 @@
 
 - Author:Guru
 - favmovie:Lalaland
--favsong:Tears in the rain
--1st song:die for you
--lastsong:Myeyes
+- favsong:Tears in the rain
+- 1st song:die for you
+- lastsong:Myeyes
 
--Myproject_copy
--Myproject
--Github
+- Myproject_copy
+- Myproject
+- Github
