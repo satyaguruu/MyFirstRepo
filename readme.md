@@ -1,5 +1,4 @@
 # Welcome to "Git for beginners" Myproject
-
 Author:Guru
 - favmovie:Lalaland
 - favsong:Tears in the rain
